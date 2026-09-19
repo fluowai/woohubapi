@@ -1,0 +1,6 @@
+{
+  "name": "WooHub - Unified WhatsApp Engine Platform",
+  "description": "Plataforma profissional e unificada para criação, gerenciamento e comercialização de conexões WhatsApp com suporte multi-motor (WAHA, WuzAPI e whatsmeow).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
